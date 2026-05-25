@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="RAG Knowledge Assistant demo preview">
+  <rect width="1200" height="800" fill="#050505"/>
+  <path d="M80 80h1040v640H80z" fill="#f7f7f3"/>
+  <path d="M80 80h1040v90H80z" fill="#111"/>
+  <text x="120" y="138" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="900" fill="#fff">RAG Knowledge Assistant</text>
+  <rect x="120" y="220" width="360" height="420" fill="#e9e9e6" stroke="#050505" stroke-width="3"/>
+  <rect x="520" y="220" width="560" height="86" fill="#050505"/>
+  <rect x="520" y="336" width="560" height="86" fill="#e9e9e6" stroke="#050505" stroke-width="3"/>
+  <rect x="520" y="452" width="560" height="86" fill="#e9e9e6" stroke="#050505" stroke-width="3"/>
+  <text x="150" y="280" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="900" fill="#050505">Documents</text>
+  <text x="550" y="275" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="900" fill="#fff">Context aware answer</text>
+  <text x="550" y="389" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#050505">Vector search + retrieval</text>
+  <text x="550" y="505" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#050505">LangChain orchestration</text>
+</svg>

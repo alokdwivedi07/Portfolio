@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" role="img" aria-label="Alok Kumar Dwivedi profile artwork">
+  <rect width="640" height="800" fill="#e9e9e6"/>
+  <path d="M0 0h640v800H0z" fill="#efefeb"/>
+  <path d="M70 64h500v672H70z" fill="#f7f7f3" stroke="#050505" stroke-width="3"/>
+  <circle cx="320" cy="264" r="104" fill="#050505"/>
+  <path d="M216 612c0-115 48-184 104-184s104 69 104 184" fill="#050505"/>
+  <path d="M184 656h272" stroke="#050505" stroke-width="10"/>
+  <path d="M186 704h268" stroke="#050505" stroke-width="3"/>
+  <text x="320" y="736" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="900" letter-spacing="8" fill="#050505">ALOK DWIVEDI</text>
+</svg>

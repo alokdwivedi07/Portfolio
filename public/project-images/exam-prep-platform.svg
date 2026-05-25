@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Exam Prep Platform demo preview">
+  <rect width="1200" height="800" fill="#f7f7f3"/>
+  <path d="M100 86h1000v628H100z" fill="#e9e9e6" stroke="#050505" stroke-width="4"/>
+  <path d="M100 86h260v628H100z" fill="#050505"/>
+  <text x="138" y="154" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="900" fill="#fff">Exam Prep</text>
+  <rect x="410" y="150" width="620" height="90" fill="#050505"/>
+  <rect x="410" y="290" width="280" height="170" fill="#f7f7f3" stroke="#050505" stroke-width="3"/>
+  <rect x="750" y="290" width="280" height="170" fill="#f7f7f3" stroke="#050505" stroke-width="3"/>
+  <rect x="410" y="510" width="620" height="90" fill="#f7f7f3" stroke="#050505" stroke-width="3"/>
+  <text x="450" y="205" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="900" fill="#fff">Student Dashboard</text>
+  <text x="450" y="378" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="900" fill="#050505">Practice</text>
+  <text x="790" y="378" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="900" fill="#050505">Analytics</text>
+  <text x="450" y="566" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="900" fill="#050505">Progress tracking</text>
+</svg>

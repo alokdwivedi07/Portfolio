@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img" aria-label="AWS Cloud Practitioner certificate">
+  <rect width="1000" height="700" fill="#e9e9e6"/>
+  <rect x="70" y="70" width="860" height="560" fill="#f7f7f3" stroke="#050505" stroke-width="4"/>
+  <text x="500" y="220" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="900" fill="#050505">AWS Cloud Practitioner</text>
+  <text x="500" y="310" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700" fill="#050505">Awarded to Alok Kumar Dwivedi</text>
+  <text x="500" y="390" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="900" letter-spacing="8" fill="#050505">CERTIFICATE</text>
+</svg>
