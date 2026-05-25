@@ -21,7 +21,7 @@ function About() {
           viewport={viewport}
           className="mx-auto max-w-readable text-base leading-7 text-ink/80"
         >
-          data & MERN Stack Developer and WBL(AI/ML) Intern at National Institute
+          AI & MERN Stack Developer and WBL(AI/ML) Intern at National Institute
           of Electronics and Information Technology, building intelligent
           AI-driven products with a passion for innovation, automation, and
           solving real-world problems through technology.
